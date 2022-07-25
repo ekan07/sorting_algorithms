@@ -20,3 +20,9 @@ Files | Description
 [2-O](./2-O) | Time complexity of Selection sort
 [3-quick_sort.c](./3-quick_sort.c) | Implementation of the Quicksort algorithm
 [3-O](./3-O) | Time complexity of Quicksort
+[100-shell_sort.c](./100-shell_sort.c) | Implementation of the Shell sort algorithm
+[101-cocktail_sort_list.c](./101-cocktail_sort_list.c) | Implementation of the Cocktail Shaker sort algorithm
+[102-counting_sort.c](./102-counting_sort.c) | Implementation of the Counting sort algorithm
+[102-O](./102-O) | Time complexity of Counting sort
+[103-merge_sort.c](./103-merge_sort.c) | Implementation of the Merge sort algorithm
+[103-O](./103-O) | Time complexity of Merge sort
